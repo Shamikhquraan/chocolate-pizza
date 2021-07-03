@@ -7,8 +7,10 @@ body{
 
 
     background-image: url(img/list-bg.png);
-    font-family: 'Otomanopee One', sans-serif;
+    font-family: 'Mali', cursive;
 }
+
+
 h3{
 
     font-family: 'Lobster', cursive;
@@ -92,20 +94,35 @@ header div nav{
     margin: 0px;
 }
 
+#mm{
+float: right;
+}
 header{
 
     margin-bottom:0px;
     margin-left: 0px;
     margin-top: 0px;
 }
+#shamc{
+    background-color:#C65B32    ;
+    color: aliceblue;
+    border: #C65B32    ;
+
+    width: 18%;
+    float: right;
+height: 12%;
+}
 #sam{
-float: right;
+    float: right;
+margin-left: 10px;
     margin-top: 0px;
     padding-top: 0px;
     color: #999996 ;
     
 }
-
+#mnb{
+    float: left;
+}
 #dem{
 
 
@@ -132,4 +149,18 @@ font-family: 'Fredoka One', cursive;
 
     font-family: 'EB Garamond', serif;
 color: #676067;
+}
+footer{
+    text-align: center;
+    margin-top: 60px;
+    color:#999996 ;
+    border:#999996 ;
+    border-width: 2px;
+}
+
+
+#ms
+{
+    margin-top: 70px;
+
 }
