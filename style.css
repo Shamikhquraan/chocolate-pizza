@@ -27,7 +27,7 @@ h3{
     font-size: 25px;
 }
 #fP{
-
+  color: #999996 ;
     font-size: 10px;
 padding-top: 0px;
 border-top: 0px;
@@ -99,9 +99,10 @@ header{
     margin-top: 0px;
 }
 #sam{
-
+float: right;
     margin-top: 0px;
     padding-top: 0px;
+    color: #999996 ;
     
 }
 
