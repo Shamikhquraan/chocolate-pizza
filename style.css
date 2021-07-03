@@ -1,20 +1,42 @@
-body form{
+body{
+
+    width: 900px;
+}
+
+.fD {
 
 
     background-image: url(img/list-bg.png);
+    font-family: 'Otomanopee One', sans-serif;
 }
 h3{
 
     font-family: 'Lobster', cursive;
     margin-bottom: 0px;
 }
+#hea1{
 
-#firP{
+    width: 250px;
+    height: 60px;
+    margin: 0px;
+}
+
+
+#Fh{
+
+    font-size: 25px;
+}
+#fP{
 
     font-size: 10px;
 padding-top: 0px;
 border-top: 0px;
-
+margin-bottom: 0px;
+margin-top: 0px;
+}
+choc{
+margin-bottom: 0px;
+    padding-bottom: 0px;
 }
 main{
 
@@ -56,3 +78,57 @@ header div nav {
 /* margin-top: 30px; */
 
 /* }  */
+#post{
+
+    margin-top: 0px;
+    margin-bottom: 150px;
+    padding-top: 0px;
+    border-top: 20px;
+}
+header div nav{
+
+    margin-top: 0px;
+    padding-top: 0px;
+    margin: 0px;
+}
+
+header{
+
+    margin-bottom:0px;
+    margin-left: 0px;
+    margin-top: 0px;
+}
+#sam{
+
+    margin-top: 0px;
+    padding-top: 0px;
+    
+}
+
+#dem{
+
+
+    margin-left: 865px;
+}
+#pos{
+
+    margin-top: 0px;
+    padding-top: 0px;
+    font-size: 13px;
+    color:#999996   ;
+}
+
+#choc{
+font-size: 40px;
+margin-bottom: 0px;
+padding-bottom: 0px;
+font-family: 'Fredoka One', cursive;
+
+}
+
+.par{
+
+
+    font-family: 'EB Garamond', serif;
+color: #676067;
+}
