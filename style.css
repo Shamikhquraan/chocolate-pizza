@@ -1,21 +1,4 @@
-
-*  {
-
-    margin:0px;
-    padding: 0px;
-    box-sizing: border-box;
-}
-
-header{
-
-    height: 100%;
-}
-body {
-
-    min-height: 100%;
-    border : 5px dashed red;
-}
-form{
+body form{
 
 
     background-image: url(img/list-bg.png);
