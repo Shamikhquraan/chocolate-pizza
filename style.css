@@ -8,6 +8,7 @@ body{
 
     background-image: url(img/list-bg.png);
     font-family: 'Mali', cursive;
+  
 }
 
 
@@ -22,7 +23,9 @@ h3{
     height: 60px;
     margin: 0px;
 }
-
+#C1{
+    float: right;
+}
 
 #Fh{
 
@@ -149,6 +152,7 @@ font-family: 'Fredoka One', cursive;
 
     font-family: 'EB Garamond', serif;
 color: #676067;
+
 }
 footer{
     text-align: center;
@@ -163,4 +167,8 @@ footer{
 {
     margin-top: 70px;
 
+}
+#FF{
+
+    margin-top:0px ;
 }
